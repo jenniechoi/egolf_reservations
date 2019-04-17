@@ -1,6 +1,7 @@
 Reservation system and customer database front-end for local business E-Golf Academy.
 
 App URL: https://egolf-reservations.herokuapp.com/
+
 Back-end URL: https://github.com/jenniechoi/egolf_reservations_api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
